@@ -39,6 +39,8 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.ViewParent;
 
+import com.heinrichreimersoftware.singleinputform.R;
+
 import org.adw.library.widgets.discreteseekbar.internal.PopupIndicator;
 import org.adw.library.widgets.discreteseekbar.internal.compat.AnimatorCompat;
 import org.adw.library.widgets.discreteseekbar.internal.compat.SeekBarCompat;
